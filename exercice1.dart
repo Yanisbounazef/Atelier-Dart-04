@@ -13,7 +13,7 @@ class Couleur {
     print('(R: $r, V: $g, B: $b)');
   }
 }
-
+// Question 6 : Creation et test des trois couleurs
 void main() {
   var rouge = Couleur.rouge();
   var vert = Couleur.vert();
